@@ -1,0 +1,7 @@
+env_scrap/
+.~*
+.vscode/
+bin/
+lib/
+lib64
+pyvenv.cfg
