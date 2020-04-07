@@ -1,10 +1,18 @@
-web_scrap_101
-scrap imdb top movies
+# web_scrap_101
+Scrap IMDb Top Movies
 
-Install
-git https://github.com/shishirneupane/web_scrap_101.git
-cd web_scrap_101
+# Installation
+```sh
+$ git https://github.com/shishirneupane/web_scrap_101.git
+```
+```sh
+$ cd web_scrap_101
+```
+```sh
 pip install -r requirements.txt
+```
 
-Usage
+# Usage
+```sh
 python3 index.py
+```
